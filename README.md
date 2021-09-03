@@ -1,4 +1,7 @@
-### Hi there 👋
+### Namaste 🙏🏻 , I'm Nilesh Mandal
+
+![](https://komarev.com/ghpvc/?username=nilemandal22&color=orange&label=PROFILE+VIEWS)
+
 
 <!--
 **nilemandal22/nilemandal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
