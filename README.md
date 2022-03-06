@@ -1,7 +1,8 @@
 ### <h1> Nilesh Mandal </h1>
 
-![](https://komarev.com/ghpvc/?username=nilemandal22&color=orange&label=PROFILE+VIEWS)
+- 🔭 I’m currently working on Angular
 
+![](https://komarev.com/ghpvc/?username=nilemandal22&color=orange&label=PROFILE+VIEWS)
 
 
 
