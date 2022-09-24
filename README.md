@@ -1,4 +1,6 @@
-### <h1> Nilesh Mandal </h1>
+<!-- ### <h1> Nilesh Mandal </h1> -->
+![alt text](https://github.com/nilemandal/nilemandal/blob/main/nilemandal.png?raw=true)
+
 
 - 🔭 I’m currently working on Angular && Express API
 
