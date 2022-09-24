@@ -2,9 +2,11 @@
 ![alt text](https://github.com/nilemandal/nilemandal/blob/main/nilemandal.png?raw=true)
 
 
-- 🔭 I’m currently working on Angular && Express API
+💼 I’m currently working in Amicus Infotech.
+❤️ Writing code in JS
 
-![](https://komarev.com/ghpvc/?username=nilemandal22&color=orange&label=PROFILE+VIEWS)
+
+![](https://komarev.com/ghpvc/?username=nilemandal&color=orange&label=PROFILE+VIEWS)
 
 
 
