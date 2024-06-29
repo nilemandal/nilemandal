@@ -7,5 +7,5 @@
 ![Language used (By File Size)](https://raw.githubusercontent.com/nilemandal/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=timeGradient&text=Thank%20you&section=footer&reversal=false&textBg=false&fontAlign=85&animation=twinkling&fontSize=40&descAlign=0&descAlignY=0&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=timeGradient&text=Thank%20you&section=footer&reversal=false&textBg=false&fontAlign=85&animation=twinkling&fontSize=40&descAlign=0&descAlignY=0&fontAlignY=30"/>
 </p>
